@@ -4,6 +4,7 @@ public class SuperGreeter {
     private String navn = "";
     private int age = 0;
 
+
     public int getAge(){
         return age;
     }
